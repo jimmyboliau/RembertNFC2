@@ -1,0 +1,17 @@
+{
+  "name": "id.rembert.rembertnfc",
+  "version": "1.0.0",
+  "displayName": "RembertNFC",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-inappbrowser": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.4",
+    "cordova-plugin-inappbrowser": "^3.0.0"
+  }
+}
